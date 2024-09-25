@@ -1,0 +1,1 @@
+python tracking/profile_model.py --script m3pt --config deep_rgbt
